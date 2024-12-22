@@ -51,7 +51,6 @@ rpm-ostree install kjournald
 rpm-ostree install plasma-systemmonitor
 rpm-ostree install skanpage
 rpm-ostree install karp
-rpm-ostree install hash-o-matic
 
 # this would install a package from rpmfusion
 # rpm-ostree install vlc
