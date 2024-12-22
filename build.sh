@@ -29,8 +29,6 @@ rpm-ostree install arianna
 rpm-ostree install elisa-player
 rpm-ostree install tokodon
 rpm-ostree install neochat
-rpm-ostree install kdeconnect
-rpm-ostree install kdeconnect-kde
 rpm-ostree install francis
 rpm-ostree install kjournald
 rpm-ostree install kalm
